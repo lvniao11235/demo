@@ -11,7 +11,7 @@ namespace Demo
     {
         protected override void Load(ContainerBuilder builder)
         {
-            builder.RegisterType<UserService>();
+            builder.RegisterModule<ServiceModule>();
         }
     }
 }
