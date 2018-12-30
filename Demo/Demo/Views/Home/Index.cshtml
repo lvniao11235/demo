@@ -1,0 +1,7 @@
+﻿@model List<User>
+<h2>Index</h2>
+
+@foreach(User user in Model)
+{
+    <p>@user.ID, @user.Name</p>
+}

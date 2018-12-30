@@ -1,0 +1,12 @@
+E:\MyProject\C#\NETCore\Demo\Demo.Service\bin\Debug\netcoreapp2.1\Demo.Service.deps.json
+E:\MyProject\C#\NETCore\Demo\Demo.Service\bin\Debug\netcoreapp2.1\Demo.Service.dll
+E:\MyProject\C#\NETCore\Demo\Demo.Service\obj\Debug\netcoreapp2.1\Demo.Service.csprojAssemblyReference.cache
+E:\MyProject\C#\NETCore\Demo\Demo.Service\obj\Debug\netcoreapp2.1\Demo.Service.csproj.CoreCompileInputs.cache
+E:\MyProject\C#\NETCore\Demo\Demo.Service\obj\Debug\netcoreapp2.1\Demo.Service.AssemblyInfoInputs.cache
+E:\MyProject\C#\NETCore\Demo\Demo.Service\obj\Debug\netcoreapp2.1\Demo.Service.AssemblyInfo.cs
+E:\MyProject\C#\NETCore\Demo\Demo.Service\bin\Debug\netcoreapp2.1\Demo.Service.pdb
+E:\MyProject\C#\NETCore\Demo\Demo.Service\bin\Debug\netcoreapp2.1\Demo.Entity.dll
+E:\MyProject\C#\NETCore\Demo\Demo.Service\bin\Debug\netcoreapp2.1\Demo.Entity.pdb
+E:\MyProject\C#\NETCore\Demo\Demo.Service\obj\Debug\netcoreapp2.1\Demo.Service.csproj.CopyComplete
+E:\MyProject\C#\NETCore\Demo\Demo.Service\obj\Debug\netcoreapp2.1\Demo.Service.dll
+E:\MyProject\C#\NETCore\Demo\Demo.Service\obj\Debug\netcoreapp2.1\Demo.Service.pdb

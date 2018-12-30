@@ -1,0 +1,9 @@
+E:\MyProject\C#\NETCore\Demo\Demo.Entity\bin\Debug\netcoreapp2.1\Demo.Entity.deps.json
+E:\MyProject\C#\NETCore\Demo\Demo.Entity\bin\Debug\netcoreapp2.1\Demo.Entity.dll
+E:\MyProject\C#\NETCore\Demo\Demo.Entity\bin\Debug\netcoreapp2.1\Demo.Entity.pdb
+E:\MyProject\C#\NETCore\Demo\Demo.Entity\obj\Debug\netcoreapp2.1\Demo.Entity.csprojAssemblyReference.cache
+E:\MyProject\C#\NETCore\Demo\Demo.Entity\obj\Debug\netcoreapp2.1\Demo.Entity.csproj.CoreCompileInputs.cache
+E:\MyProject\C#\NETCore\Demo\Demo.Entity\obj\Debug\netcoreapp2.1\Demo.Entity.AssemblyInfoInputs.cache
+E:\MyProject\C#\NETCore\Demo\Demo.Entity\obj\Debug\netcoreapp2.1\Demo.Entity.AssemblyInfo.cs
+E:\MyProject\C#\NETCore\Demo\Demo.Entity\obj\Debug\netcoreapp2.1\Demo.Entity.dll
+E:\MyProject\C#\NETCore\Demo\Demo.Entity\obj\Debug\netcoreapp2.1\Demo.Entity.pdb
